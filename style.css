@@ -18,6 +18,12 @@ body{
   margin-bottom: 8px;
 }
 
+input[type=text]{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
 .input{
   height: 40px;
   width: 100%;
